@@ -1,11 +1,11 @@
-[programs.localnet]
-myepicproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+myepicproject = "Dt8bpxueHcsn35VdN1EoYgFCaS2tJcP7YodZyMMby6Se"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/robin/.config/solana/id.json"
 
 [scripts]
